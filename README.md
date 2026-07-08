@@ -3,398 +3,429 @@
 
 <br>
 <br>
-
-<div align="center">
-
-# BÁO CÁO THỰC TẬP
-
-## HÀNH TRÌNH LÀM THỰC TẬP SINH DEV/WEB
-
+<center>
+<h1>BÁO CÁO THỰC TẬP</h1>
+<h2>Hành Trình Làm Thực Tập Sinh Dev/Web</h2>
+<h3>Đề tài: Phát triển và Triển khai Nền tảng Mạng xã hội Sống xanh Eco Tracker</h3>
+</center>
 <br>
 <br>
 
-**GVHD:** LÊ THANH NHÀN  
-**SVTH:** TĂNG HOÀNG MINH HUY  
-**MSHS:** HCM-CH-002318  
-**LỚP:** TE-C-PA-1518-2023LTWD-0015  
+* **Giáo viên hướng dẫn (GVHD):** LÊ THANH NHÀN
+* **Sinh viên thực hiện (SVTH):** TĂNG HOÀNG MINH HUY
+* **Mã số học sinh (MSHS):** HCM-CH-002318
+* **Lớp:** TE-C-PA-1518-2023LTWD-0015
 
 <br>
 <br>
-<br>
-<br>
-
-### TP. HỒ CHÍ MINH – NĂM 2026
-
-</div>
+<center>
+<h4>TP. HỒ CHÍ MINH – NĂM 2026</h4>
+</center>
 
 ---
-pagebreak
----
 
-### LỜI CẢM ƠN
+## LỜI CẢM ƠN
 
-Em xin gửi lời cảm ơn chân thành và sâu sắc đến thầy **Nguyễn Minh Cường** – người đã tận tình hướng dẫn, theo dõi và hỗ trợ em trong suốt quá trình thực tập tại vị trí Dev/Web. Sự tận tâm và thân thiện của thầy đã giúp em cảm thấy mình luôn được đồng hành và dẫn dắt đúng hướng, ngay cả khi gặp khó khăn hay bỡ ngỡ trong những ngày đầu thực tập.
+Em xin gửi lời cảm ơn chân thành và sâu sắc đến thầy Nguyễn Minh Cường – người đã tận tình hướng dẫn, theo dõi và hỗ trợ em trong suốt quá trình thực tập tại vị trí Dev/Web. Sự tận tâm và thân thiện của thầy cô đã giúp em cảm thấy mình luôn được đồng hành và dẫn dắt đúng hướng, ngay cả khi gặp khó khăn hay bỡ ngỡ trong những ngày đầu thực tập.
 
-Em cũng xin được gửi lời cảm ơn đặc biệt đến thầy **Lê Thanh Nhàn** – giáo viên chính phụ trách lớp học. Trong suốt quá trình làm việc cùng thầy, em đã học hỏi được rất nhiều từ phong cách giảng dạy linh hoạt, cách truyền đạt kiến thức một cách sinh động và gần gũi với học sinh, cũng như sự kiên nhẫn và tận tâm của thầy. Nhờ sự chỉ dẫn và hỗ trợ của thầy, em đã có thể hoàn thành tốt nhiệm vụ của mình.
+Em cũng xin được gửi lời cảm ơn đặc biệt đến thầy Lê Thanh Nhàn – giáo viên chính phụ trách lớp học. Trong suốt quá trình làm việc cùng thầy, em đã học hỏi được rất nhiều từ phong cách giảng dạy linh hoạt, cách truyền đạt kiến thức một cách sinh động và gần gũi với học sinh, cũng như sự kiên nhẫn và tận tâm của thầy. Nhờ sự chỉ dẫn và hỗ trợ của thầy, em đã có thể hoàn thành tốt nhiệm vụ của mình.
 
-Kỳ thực tập hè không chỉ là một đợt thực tập, mà thực sự là một hành trình trải nghiệm và trưởng thành. Em đã có một mùa hè đáng nhớ – nơi em được học, được làm và được lớn lên trong chính môi trường đầy cảm hứng và nhân văn này.
+Kì thực tập này không chỉ là một đợt thực tập, mà thực sự là một hành trình trải nghiệm và trưởng thành. Em đã có một mùa hè đáng nhớ – nơi em được học, được làm và được lớn lên trong chính môi trường đầy cảm hứng và nhân văn này.
 
-Một lần nữa, em xin chân thành cảm ơn thầy Nguyễn Minh Cường, thầy Lê Thanh Nhàn đã tạo điều kiện tuyệt vời để em có được những trải nghiệm thực tế đầy ý nghĩa.
+Một lần nữa, em xin chân thành cảm ơn thầy Nguyễn Minh Cường và thầy Lê Thanh Nhàn đã tạo điều kiện tuyệt vời để em có được những trải nghiệm thực tế đầy ý nghĩa.
 
-<div align="right">
+*TP. Hồ Chí Minh, Ngày 12 tháng 6 năm 2026*
 
-*TP. Hồ Chí Minh, Ngày 12 tháng 6 năm 2026*  
-**Học sinh thực hiện**  
-*(Ký và ghi rõ họ tên)*  
-<br>
-<br>
-**Tăng Hoàng Minh Huy**
+**Học sinh thực hiện**
 
-</div>
+Tăng Hoàng Minh Huy
 
 ---
-pagebreak
----
 
-### NHẬN XÉT CỦA ĐƠN VỊ THỰC TẬP
+## NHẬN XÉT CỦA ĐƠN VỊ THỰC TẬP
 *(Đánh giá tính xác thực về các dữ liệu, số liệu và mức độ đạt yêu cầu của báo cáo thực tập)*
 
-* **Mức độ đánh giá:**
-  - [ ] Xuất sắc
-  - [ ] Tốt
-  - [ ] Khá
-  - [ ] Đáp ứng yêu cầu
-  - [ ] Không đáp ứng yêu cầu
+- [ ] Xuất sắc
+- [ ] Tốt
+- [ ] Khá
+- [ ] Đáp ứng yêu cầu
+- [ ] Không đáp ứng yêu cầu
 
-* **Nhận xét thêm:**
-  $$\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$$
-  $$\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$$
-  $$\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$$
+**Nhận xét thêm:**
+................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
 
-<br>
-<br>
-
-<div align="center">
-
-### XÁC NHẬN CỦA ĐƠN VỊ THỰC TẬP
-
-</div>
-
-| Giáo viên hướng dẫn | Đại diện đơn vị | Đơn vị |
-| :---: | :---: | :---: |
-| *(Ký, ghi rõ họ tên, đóng dấu)* | *(Ký, ghi rõ họ tên, đóng dấu)* | *(Ký, ghi rõ họ tên, đóng dấu)* |
-| | | |
-| | | |
-| | | |
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>Giáo viên hướng dẫn</b><br>
+      <i>(Ký, ghi rõ họ tên, đóng dấu)</i>
+    </td>
+    <td align="center" width="50%">
+      <b>Đại diện đơn vị</b><br>
+      <i>(Ký, ghi rõ họ tên, đóng dấu)</i>
+    </td>
+  </tr>
+</table>
 
 ---
-pagebreak
----
 
-### MỤC LỤC
+## MỤC LỤC
 
-* [LỜI CẢM ƠN](#lời-cảm-ơn)
-* [NHẬN XÉT VÀ XÁC NHẬN CỦA ĐƠN VỊ THỰC TẬP](#nhận-xét-của-đơn-vị-thực-tập)
-* [MỤC LỤC](#mục-lục)
-* [LỜI MỞ ĐẦU](#lời-mở-đầu)
-* [CHƯƠNG 1: TỔNG QUAN VỀ HỌC VIỆN CÔNG NGHỆ SÁNG TẠO TEKY](#chương-1-tổng-quan-về-học-viện-công-nghệ-sáng-tạo-teky)
-  - [1. Quá trình hình thành và phát triển](#1-quá-trình-hình-thành-và-phát-triển-của-học-viện-sáng-tạo-công-nghệ-teky)
-  - [2. Sứ mệnh và Tầm nhìn](#2-sứ-mệnh-và-tầm-nhìn)
-  - [Tổng kết Chương 1](#tổng-kết-chương-1)
-* [CHƯƠNG 2: THỰC TẬP VÌ TRÍ DEV/WEB - KỲ 1 (01/06 - 12/06)](#chương-2-thực-tập-vị-trí-devweb-tại-teky)
-  - [Phần 1: Kiến thức được học](#phần-1-kiến-thức-được-học)
-  - [Phần 2: Dự án thực hiện (Eco Tracker & Sa bàn mô phỏng)](#phần-2-dự-án-thực-hiện-eco-tracker)
-  - [Phần 3: AWS (Triển khai hệ thống trên Amazon Web Services)](#phần-3-aws-triển-khai-hệ-thống-trên-amazon-web-services)
-  - [Tổng kết Chương 2](#tổng-kết-chương-2)
-* [KẾT LUẬN](#kết-luận)
-* [TÀI LIỆU THAM KHẢO](#tài-liệu-tham-khảo)
+1. **LỜI CẢM ƠN** ................................................................................................................... 1
+2. **NHẬN XÉT VÀ XÁC NHẬN CỦA ĐƠN VỊ THỰC TẬP** .............................................. 2
+3. **LỜI MỞ ĐẦU** ..................................................................................................................... 4
+4. **CHƯƠNG 1: TỔNG QUAN VỀ HỌC VIỆN CÔNG NGHỆ SÁNG TẠO TEKY** ............. 5
+   * 1. Quá trình hình thành và phát triển của Học viện Sáng tạo Công nghệ TEKY ........... 5
+   * 2. Sứ mệnh và Tầm nhìn .................................................................................................. 7
+   * *Tổng kết Chương 1* ........................................................................................................ 8
+5. **CHƯƠNG 2: HÀNH TRÌNH THỰC TẬP VÀ PHÁT TRIỂN DỰ ÁN ECO TRACKER** ... 9
+   * *Phần 1: Kiến thức và kỹ năng được học* ........................................................................ 9
+   * *Phần 2: Dự án Eco Tracker (Kiến trúc, Cơ sở dữ liệu và Chức năng)* ........................... 11
+   * *Phần 3: Triển khai ứng dụng trên hạ tầng điện toán đám mây AWS* ............................. 19
+   * *Tổng kết Chương 2* ........................................................................................................ 23
+6. **KẾT LUẬN** ........................................................................................................................ 24
+7. **TÀI LIỆU THAM KHẢO** .................................................................................................. 25
 
 ---
-pagebreak
----
 
-### LỜI MỞ ĐẦU
+## LỜI MỞ ĐẦU
 
 Trong bối cảnh công nghệ thông tin phát triển mạnh mẽ và quá trình chuyển đổi số đang diễn ra trên nhiều lĩnh vực, nhu cầu về các sản phẩm và dịch vụ công nghệ ngày càng gia tăng. Đặc biệt, phát triển website và các nền tảng trực tuyến đã trở thành một phần quan trọng trong hoạt động của doanh nghiệp, góp phần nâng cao hiệu quả quản lý, quảng bá thương hiệu và cải thiện trải nghiệm người dùng. Vì vậy, việc trang bị kiến thức chuyên môn cũng như tiếp cận với môi trường làm việc thực tế là yêu cầu cần thiết đối với sinh viên ngành Công nghệ thông tin.
 
-Thực tập doanh nghiệp là cơ hội để sinh viên vận dụng những kiến thức đã học vào thực tiễn, đồng thời học hỏi thêm kinh nghiệm làm việc, kỹ năng chuyên môn và tác phong nghề nghiệp. Trong thời gian thực tập tại Công ty Cổ phần Công nghệ và Sáng tạo Trẻ (Teky), em đã có cơ hội tìm hiểu về môi trường làm việc chuyên nghiệp, tham gia vào các công việc liên quan đến phát triển web và tiếp cận với những công nghệ, công cụ được sử dụng trong thực tế.
+Thực tập doanh nghiệp là cơ hội để sinh viên vận dụng những kiến thức đã học vào thực tiễn, đồng thời học hỏi thêm kinh nghiệm làm việc, kỹ năng chuyên môn và tác phong nghề nghiệp. Trong thời gian thực tập tại Công ty Cổ phần Công nghệ và Sáng tạo Trẻ (Teky) thuộc chương trình Lập trình Web Django - Pathway, em đã có cơ hội tìm hiểu về môi trường làm việc chuyên nghiệp, tham gia vào các công việc liên quan đến phát triển web và trực tiếp tiếp cận với những công nghệ, công cụ được sử dụng trong thực tế.
 
-Báo cáo thực tập này được thực hiện nhằm tổng kết những kiến thức, kỹ năng và kinh nghiệm mà em đã tích lũy được trong quá trình thực tập tại công ty. Nội dung báo cáo tập trung trình bày quá trình tìm hiểu công việc, các nhiệm vụ được giao, kết quả đạt được cũng như những bài học kinh nghiệm rút ra trong thời gian thực tập. Thông qua đó, em có cơ hội đánh giá lại năng lực bản thân, đồng thời định hướng rõ hơn cho quá trình học tập và phát triển nghề nghiệp trong tương lai.
+Báo cáo thực tập này được thực hiện nhằm tổng kết những kiến thức, kỹ năng và kinh nghiệm mà em đã tích lũy được trong quá trình thực tập tại công ty. Nội dung báo cáo tập trung trình bày quá trình học tập công nghệ mới, thiết kế kiến trúc hệ thống, chi tiết cơ sở dữ liệu và quy trình phát triển sản phẩm Mạng xã hội sống xanh Eco Tracker – một ứng dụng tích hợp Trí tuệ nhân tạo (AI) và cơ chế Gamification (Trò chơi hóa) để thúc đẩy lối sống bền vững. Thông qua đó, em có cơ hội đánh giá lại năng lực bản thân, đồng thời định hướng rõ hơn cho quá trình học tập và phát triển nghề nghiệp trong tương lai.
 
 ---
-pagebreak
----
 
-### CHƯƠNG 1: TỔNG QUAN VỀ HỌC VIỆN CÔNG NGHỆ SÁNG TẠO TEKY
+## CHƯƠNG 1: TỔNG QUAN VỀ HỌC VIỆN CÔNG NGHỆ SÁNG TẠO TEKY
 
-#### 1. Quá trình hình thành và phát triển của Học viện Sáng tạo Công nghệ TEKY
+### 1. Quá trình hình thành và phát triển của Học viện Sáng tạo Công nghệ TEKY
 
-##### 1.1 Quá trình hình thành
+#### 1.1 Quá trình hình thành
 Học viện Sáng tạo Công nghệ Teky được thành lập vào tháng 6/2016, với tầm nhìn tiên phong mang giáo dục STEAM (Khoa học – Công nghệ – Kỹ thuật – Nghệ thuật – Toán học) chuẩn Mỹ đến Việt Nam, dành cho trẻ em từ 4 đến 18 tuổi. Dưới đây là hành trình hình thành và những cột mốc quan trọng của Teky:
 * Teky chính thức ra đời vào tháng 6/2016, trở thành học viện đầu tiên tại Việt Nam áp dụng phương pháp giáo dục STEAM chuẩn Mỹ.
 * Tập trung vào các bộ môn công nghệ tiên tiến như Lập trình và Phát triển ứng dụng, Robotics Engineering, Công nghệ 3D, và Truyền thông đa phương tiện.
 * Xây dựng nền tảng học tập kết hợp Online và Offline, sử dụng hệ thống LMS tích hợp A.I để cá nhân hóa lộ trình học, cùng đội ngũ giáo viên giàu kinh nghiệm, tận tâm.
 
-##### 1.2 Sự phát triển và thành tựu
+#### 1.2 Sự phát triển và thành tựu
 * **Tháng 11/2016:** Chỉ 5 tháng sau khi thành lập, học viện Teky giành 5 huy chương bạc tại cuộc thi lập trình quốc tế WeCode (bộ môn Scratch, độ tuổi 6-9), khẳng định chất lượng đào tạo vượt trội.
 * **Tháng 3/2017:** Được Chính phủ Úc bình chọn là 1 trong 10 dự án Ảnh hưởng Xã hội hàng đầu Đông Nam Á, và là dự án duy nhất của Việt Nam trong số 2.000 dự án được sàng lọc.
 * **Tháng 6/2017:** Lọt top 3 dự án xuất sắc tại sự kiện Women NextGen Entrepreneur tại Thụy Sĩ, ghi dấu ấn trên trường quốc tế.
 * **Tháng 9/2017:** Triển khai chương trình Hour of Code, tiếp cận hơn 3.000 học sinh trên toàn quốc, truyền cảm hứng học công nghệ.
-* **2017-2019:** Nhận 5 giải thưởng Rice Bowl Startup Award bao gồm:
-  - *2017:* Dự án đào tạo có ảnh hưởng xã hội tốt nhất.
-  - *2018:* Khởi nghiệp được bình chọn nhiều nhất & Dự án cống hiến cho xã hội tốt nhất.
-  - *2019:* Founder Of The Year & Best NewComer.
-* **2019:** Vinh danh tại Giải thưởng Doanh nghiệp Đông Nam Á (ABA). Đồng thời, bà Đào Lan Hương nhận giải Doanh nghiệp khởi nghiệp và đổi mới sáng tạo xuất sắc tại ASEAN BIS. Ông Lê Quang Tuấn được vinh danh Nhà lãnh đạo Giáo dục công nghệ Xuất sắc nhất Châu Á tại Singapore.
+* **2017-2019:** Nhận 5 giải thưởng Rice Bowl Startup Award bao gồm: *Dự án đào tạo có ảnh hưởng xã hội tốt nhất (2017)*, *Khởi nghiệp được bình chọn nhiều nhất & Dự án cống hiến cho xã hội tốt nhất (2018)*, *Founder Of The Year & Best NewComer (2019)*.
+* **2019:** Vinh danh tại Giải thưởng Doanh nghiệp Đông Nam Á (ABA). Founder Đào Lan Hương nhận giải Doanh nghiệp khởi nghiệp và đổi mới sáng tạo xuất sắc tại ASEAN BIS. Ông Lê Quang Tuấn được vinh danh Nhà lãnh đạo Giáo dục công nghệ Xuất sắc nhất Châu Á tại Singapore.
 * **Tháng 12/2019:** Teky được Diễn đàn Kinh tế Thế giới (WEF) công nhận là mô hình giáo dục toàn cầu tiêu biểu tại Davos, Thụy Sĩ, khẳng định vị thế trên trường quốc tế.
-* **2020:** 
-  - *Giải thưởng Quốc tế Stevie Awards:* Vinh danh tại hạng mục Stevie Awards for Women in Business nhờ những nỗ lực thúc đẩy công nghệ và kinh doanh giáo dục.
-  - *Đề cử Giải thưởng Startup Toàn cầu (Global Startup Awards):* Đại diện duy nhất của Việt Nam tranh tài ở vòng quốc tế.
-* **2023:** 
-  - *Giải thưởng Công nghệ Giáo dục tiêu biểu:* Nhận cúp vinh danh tại lễ trao giải EdTech Awards 2023.
-  - *Top 50 EdTech Đông Nam Á:* Năm đầu tiên được tổ chức xếp hạng giáo dục toàn cầu HolonIQ ghi danh vào danh sách.
-* **2024:** 
-  - *Nền tảng EdTech Tiêu biểu:* Được vinh danh tại sự kiện EdTech Expo 2024 cho lĩnh vực giáo dục STEM tại Việt Nam.
-  - *Top 50 EdTech Đông Nam Á:* Duy trì vị thế năm thứ hai liên tiếp trong bảng xếp hạng uy tín của HolonIQ.
-* **2025:** *Top 50 EdTech Đông Nam Á (Năm thứ 3 liên tiếp):* Khẳng định chiến lược bền vững và vị thế dẫn đầu thị trường EdTech Việt Nam.
-
-#### 2. Sứ mệnh và Tầm nhìn
-
-##### 2.1 Sứ mệnh của Teky
-Tại TEKY, chúng tôi nuôi dưỡng một thế hệ trẻ Việt Nam bản lĩnh, sáng tạo và làm chủ công nghệ. Với môi trường đào tạo hiện đại, định hướng tương lai và nền tảng STEAM vững chắc, TEKY trang bị cho học sinh tư duy số và kỹ năng máy tính, sẵn sàng dẫn đầu trong kỷ nguyên công nghệ 4.0.
-
-Chúng tôi cam kết lan tỏa giáo dục STEAM tới cộng đồng trẻ, nâng tầm chất lượng học tập tại Việt Nam và khu vực Đông Nam Á. TEKY không ngừng đổi mới, góp phần xây dựng hệ sinh thái giáo dục bắt kịp xu hướng toàn cầu.
-
-Quan trọng hơn, TEKY là nơi truyền cảm hứng – khơi dậy đam mê, đánh thức tiềm năng và nuôi dưỡng tinh thần sáng tạo để các em tự tin bước ra thế giới, trở thành doanh nhân công nghệ và công dân toàn cầu.
-
-##### 2.2 Tầm nhìn trong tương lai
-TEKY được khởi nguồn từ khát vọng xây dựng một nền giáo dục công nghệ hiện đại, nơi thế hệ trẻ Việt Nam được nuôi dưỡng tư duy số, phát triển toàn diện và sẵn sàng bước vào kỷ nguyên số với sự tự tin và sáng tạo.
-
-Mục tiêu của chúng tôi hướng đến việc trang bị cho trẻ em Việt Nam nền tảng vững chắc để trở thành những công dân toàn cầu, làm chủ công nghệ và tiên phong trong nền kinh tế số của tương lai.
-
-#### Tổng Kết Chương 1
-Học viện Teky là nơi khởi nguồn cho đam mê công nghệ của các bạn nhỏ từ 5 đến 18 tuổi, nơi các em được tiếp cận với mô hình giáo dục STEAM chuẩn Mỹ trong môi trường sáng tạo, hiện đại và đầy cảm hứng. Với triết lý giáo dục hướng đến phát triển toàn diện, Teky không chỉ truyền đạt kiến thức mà còn khơi dậy tư duy phản biện, khả năng sáng tạo và bản lĩnh cá nhân trong mỗi học sinh.
-
-Sự kết hợp giữa chương trình đào tạo chuẩn quốc tế, nền tảng công nghệ tiên tiến cùng đội ngũ giáo viên tận tâm đã tạo nên một hành trình học tập lý tưởng, nơi mà mỗi giờ học đều trở nên sinh động và đầy hứng khởi. Teky mang đến không gian học tập linh hoạt, kết nối học sinh mọi lúc, mọi nơi, phá bỏ ranh giới giữa học trực tuyến và trực tiếp.
-
-Tại Teky, các em không chỉ học về lập trình, robotics, 3D hay truyền thông đa phương tiện, mà còn rèn luyện các kỹ năng mềm quan trọng như thuyết trình, làm việc nhóm và quản lý cảm xúc – những hành trang cần thiết để tự tin bước vào tương lai. TEKY không chỉ là một học viện, mà còn là người bạn đồng hành, là nơi khơi dậy và nuôi dưỡng tiềm năng của thế hệ trẻ Việt Nam.
-
----
-pagebreak
----
-
-### CHƯƠNG 2: THỰC TẬP VỊ TRÍ DEV/WEB TẠI TEKY
-
-Trong kỳ thực tập tại vị trí Dev/Web từ ngày 01/06 đến ngày 12/06 năm 2026, em đã được tiếp cận trực tiếp với quy trình làm việc trong doanh nghiệp công nghệ, học hỏi các kiến thức chuyên môn và tham gia xây dựng các dự án cụ thể. Dưới đây là nội dung chi tiết quá trình thực tập của em:
-
-#### Phần 1: Kiến thức được học
-
-Trong suốt quá trình thực tập, em đã được hướng dẫn và tự tích lũy được nhiều mảng kiến thức công nghệ hiện đại, bao gồm:
-
-1. **Tổng quan loại hình ứng dụng Web:**
-   * **Asset Web:** Hệ thống lưu trữ, phân loại và quản lý các tài nguyên đa phương tiện (hình ảnh, mô hình 3D, icon...).
-   * **Quiz Web:** Ứng dụng web kiểm tra trắc nghiệm tương tác thời gian thực phục vụ nâng cao kiến thức người dùng.
-   * **Portfolio Web:** Trang web cá nhân dùng để giới thiệu bản thân, kỹ năng và trưng bày các sản phẩm/dự án đã thực hiện.
-
-2. **Quy trình Quản lý mã nguồn (Version Control System):**
-   * Sử dụng thành thạo **Git** và nền tảng **GitHub** để làm việc nhóm.
-   * Học cách khởi tạo kho lưu trữ (Repository), tạo các nhánh phát triển độc lập (branching), thực hiện cập nhật mã nguồn (commit, push), tạo yêu cầu tích hợp mã nguồn (Pull Request) và xử lý xung đột code (conflict resolution).
-
-3. **Thiết kế UI/UX & Phát triển giao diện phía Client (Frontend):**
-   * Sử dụng công cụ **Figma** để phân tích, phác thảo Wireframe và thiết kế giao diện UI/UX trực quan cho người dùng.
-   * Xây dựng cấu trúc layout trang web bằng **HTML5** và tối ưu hóa thẩm mỹ bằng **CSS3 thuần (Vanilla CSS)**.
-   * Triển khai kỹ thuật **Responsive Web Design** để đảm bảo giao diện thích nghi tốt với các kích thước màn hình khác nhau (Desktop, Tablet, Mobile).
-   * Tạo hiệu ứng sinh động với các thư viện CSS Animation và thiết kế các thành phần giao diện theo phong cách **Glassmorphism** sang trọng.
-   * Sử dụng **JavaScript (ES6)** để tăng tương tác động cho trang web (bật/mở sidebar, quản lý các pop-up, chuyển đổi giao diện sáng/tối - Light/Dark Mode).
-
-4. **Kỹ thuật xử lý dữ liệu và mô phỏng:**
-   * Hiểu cấu trúc định dạng dữ liệu **JSON** để truyền nhận thông tin giữa máy khách và máy chủ.
-   * Học quy trình xuất dữ liệu và tối ưu hóa tài nguyên thông qua việc chuyển đổi định dạng ảnh đại diện mô hình từ file 3D nặng `.glb` sang ảnh phẳng `.png` giúp hệ thống quản lý tài nguyên tải nhanh hơn và mượt mà hơn.
-
-5. **Lập trình Backend & Kiến trúc hệ thống:**
-   * Nắm vững kiến trúc phát triển ứng dụng web theo mô hình **MVT (Model - View - Template)** của **Django Framework** (phiên bản Django 5+ và cấu trúc Django 6.0.6).
-   * Sử dụng **Django ORM** để xây dựng, thiết kế sơ đồ cơ sở dữ liệu quan hệ (20 bảng cơ sở dữ liệu liên kết chặt chẽ) và truy vấn dữ liệu hiệu quả.
-   * Sử dụng thư viện **Celery** kết hợp với **Redis** để thiết lập hàng đợi tác vụ ngầm bất đồng bộ (Asynchronous Background Tasks), giải quyết các tác vụ tính toán nặng và gọi API bên ngoài mà không gây tắc nghẽn giao diện.
-   * Kết nối và gọi các mô hình ngôn ngữ lớn thông qua **Google Gemini API** (Gemini 2.5 Flash) để thực hiện các chức năng kiểm duyệt, phân loại tự động và tư vấn thông minh.
+* **2020:** Nhận Giải thưởng Quốc tế Stevie Awards nhờ những nỗ lực thúc đẩy công nghệ và kinh doanh giáo dục; lọt vào vòng đề cử Giải thưởng Startup Toàn cầu (Global Startup Awards).
+* **2023 - 2025:** Nhận giải thưởng Công nghệ Giáo dục tiêu biểu EdTech Awards 2023 và lọt Top 50 EdTech Đông Nam Á trong 3 năm liên tiếp (2023, 2024, 2025) do tổ chức HolonIQ xếp hạng.
 
 ---
 
-#### Phần 2: Dự án thực hiện (Eco Tracker)
+### 2. Sứ mệnh và Tầm nhìn
 
-Trong thời gian thực tập, em đã áp dụng các kiến thức đã học vào hai dự án thực tế:
+#### 2.1 Sứ mệnh của Teky
+* **Nuôi dưỡng thế hệ tương lai:** Tại TEKY, mục tiêu hàng đầu là nuôi dưỡng một thế hệ trẻ Việt Nam bản lĩnh, sáng tạo và làm chủ công nghệ trong kỷ nguyên số.
+* **Trang bị kỹ năng toàn diện:** Với môi trường đào tạo hiện đại và nền tảng STEAM vững chắc, TEKY trang bị cho học sinh tư duy máy tính, tư duy thiết kế và kỹ năng giải quyết vấn đề, chuẩn bị sẵn sàng cho cách mạng công nghiệp 4.0.
+* **Đóng góp xã hội:** Cam kết lan tỏa giáo dục STEAM tới cộng đồng, nâng tầm chất lượng học tập tại Việt Nam và khu vực Đông Nam Á, không ngừng đổi mới hệ sinh thái giáo dục bắt kịp xu hướng toàn cầu.
+* **Truyền cảm hứng sáng tạo:** Là nơi khơi dậy đam mê, đánh thức tiềm năng để các em tự tin bước ra thế giới, trở thành doanh nhân công nghệ và công dân toàn cầu.
 
-##### A. Dự án Sa bàn mô phỏng WRO (Giai đoạn đầu)
-* **Nhiệm vụ:** Tìm hiểu, đánh giá các sa bàn mô phỏng phục vụ cho dự án giáo dục. Kiểm tra tính đầy đủ của thông tin, hình ảnh minh họa trên hệ thống.
-* **Thực hiện:** Chọn sa bàn thuộc chủ đề WRO (World Robot Olympiad) để triển khai. Tiến hành thiết kế bản đồ, hoàn thiện dữ liệu JSON của sa bàn, chuyển đổi toàn bộ ảnh đại diện mô hình từ định dạng gốc `.glb` sang `.png` để tăng hiệu năng hiển thị trên web. Tiến hành đồng bộ dữ liệu lên hệ thống và đẩy dự án lên GitHub để quản lý phiên bản.
+#### 2.2 Tầm nhìn trong tương lai
+TEKY hướng tới việc xây dựng một nền giáo dục công nghệ hiện đại, nơi thế hệ trẻ được phát triển toàn diện, có tư duy số sắc bén và làm chủ công nghệ, đóng vai trò tiên phong trong nền kinh tế số của Việt Nam và toàn cầu trong tương lai.
 
-##### B. Dự án Eco Tracker – Nền tảng sống xanh (Giai đoạn tiếp theo)
-Dự án lớn xuyên suốt kỳ thực tập của em là **Eco Tracker** – một nền tảng mạng xã hội kết hợp tính năng trò chơi hóa nhằm mục đích bảo vệ môi trường.
+---
 
-###### 1. Giới thiệu chung
-* **Tên dự án:** Eco Tracker – Gamified Social Platform for Sustainable Living
-* **Mục tiêu:** Eco Tracker là một ứng dụng mạng xã hội kết hợp giữa cơ chế trò chơi hóa (Gamification), Trí tuệ nhân tạo (AI) và mạng xã hội nhằm khuyến khích người dùng xây dựng thói quen sống xanh một cách bền vững. Thay vì chỉ tuyên truyền lý thuyết suông, Eco Tracker biến mỗi hành động thân thiện với môi trường thành một thử thách có điểm thưởng, tích lũy cấp độ và mở khóa huy hiệu, giúp người dùng trực quan hóa tác động tích cực của bản thân đến Trái Đất.
+### Tổng Kết Chương 1
+Học viện Teky là nơi khởi nguồn cho đam mê công nghệ của các bạn nhỏ từ 5 đến 18 tuổi, nơi các em được tiếp cận với mô hình giáo dục STEAM chuẩn Mỹ trong môi trường sáng tạo và hiện đại. Sự kết hợp giữa chương trình đào tạo chuẩn quốc tế, nền tảng công nghệ tiên tiến cùng đội ngũ giáo viên tận tâm đã tạo nên một hành trình học tập lý tưởng. TEKY không chỉ truyền đạt kiến thức kỹ thuật mà còn rèn luyện các kỹ năng mềm quan trọng, giúp học sinh sẵn sàng thích nghi và dẫn đầu trong tương lai số.
 
-###### 2. Ý tưởng sản phẩm
-Eco Tracker kết hợp chặt chẽ 3 yếu tố cốt lõi:
-* **Gamification:** Thiết lập hệ thống nhiệm vụ hàng ngày/hàng tuần để người dùng thực hiện, tích lũy điểm kinh nghiệm (XP) và điểm Eco Points để thăng cấp, mở khóa các khung viền Avatar phát sáng độc quyền trong Cửa hàng.
-* **Social Network:** Cung cấp bảng tin xã hội (Eco Feed) để chia sẻ hình ảnh hoạt động thực tế, bình luận, tương tác động viên và cùng tham gia các nhiệm vụ nhóm (Co-op Quests).
-* **Artificial Intelligence:** Trợ lý ảo AI tự động hóa khâu kiểm duyệt và đánh giá chất lượng ảnh, đồng thời phân tích hành vi của người dùng trong tuần để đề xuất các mục tiêu sống xanh phù hợp.
+---
 
-###### 3. Sơ đồ cơ sở dữ liệu
-Hệ thống quản lý 20 bảng cơ sở dữ liệu quan hệ chặt chẽ, được đánh chỉ mục (`db_index=True`) trên các trường tìm kiếm chính để tối ưu hóa hiệu năng:
+## CHƯƠNG 2: HÀNH TRÌNH THỰC TẬP VÀ PHÁT TRIỂN DỰ ÁN ECO TRACKER
+
+### Phần 1: Kiến thức và kỹ năng được học
+
+Trong suốt quá trình thực tập tại vị trí Dev/Web thuộc lộ trình Django Pathway, em đã được đào tạo bài bản và tự học để làm chủ các kiến thức nền tảng và nâng cao liên quan đến phát triển phần mềm, cụ thể như sau:
+
+#### 1. Lập trình Backend với Django Framework (Python)
+* **Cơ cấu Model-View-Template (MVT):** Hiểu rõ luồng xử lý yêu cầu (HTTP Request/Response) trong Django, phân tách rõ ràng giữa logic nghiệp vụ (Views), cấu trúc dữ liệu (Models) và giao diện kết xuất (Templates).
+* **Django ORM (Object-Relational Mapping):** Sử dụng các truy vấn ORM thay cho SQL thuần để thao tác với cơ sở dữ liệu một cách an toàn (tránh lỗi SQL Injection). Sử dụng thành thạo các phương thức nâng cao như `select_related()` và `prefetch_related()` để giải quyết triệt để vấn đề truy vấn thừa $N+1$ dư thừa dữ liệu.
+* **Authentication & Authorization:** Triển khai hệ thống phân quyền, đăng nhập, đăng ký và bảo mật tài khoản bằng các công cụ tích hợp sẵn của Django.
+* **Signals & Middleware:** Sử dụng Signals (ví dụ: bắt tín hiệu `post_save` trên Model `User` để tự động tạo `UserProfile`) và viết Context Processors để truyền các thông tin toàn cục vào các giao diện HTML.
+
+#### 2. Xử lý tác vụ bất đồng bộ (Asynchronous Tasks) với Celery và Redis
+* **Xử lý tắc nghẽn hệ thống:** Hiểu rõ hạn chế của mô hình đồng bộ (Synchronous) khi gọi các API bên ngoài hoặc xử lý ảnh nặng (khiến luồng chính bị treo).
+* **Kiến trúc Message Broker:** Học cách cấu hình Redis làm hàng đợi thông điệp (Broker) kết nối giữa Django và hệ thống tiến trình chạy ngầm Celery Worker để xử lý tác vụ bất đồng bộ (`shared_task`).
+
+#### 3. Tích hợp Trí tuệ Nhân tạo (AI Integration)
+* **Sử dụng Gemini API:** Tích hợp mô hình ngôn ngữ lớn **Google Gemini 2.5 Flash** để thực hiện phân tích và nhận diện hình ảnh hoạt động sống xanh trong thời gian thực.
+* **Xử lý dữ liệu đa phương tiện:** Mã hóa hình ảnh sang định dạng Base64 và truyền dữ liệu JSON qua giao thức HTTP REST API bằng thư viện `httpx` trong Python.
+
+#### 4. Kỹ thuật Caching
+* Sử dụng Redis làm bộ nhớ đệm (Caching) cho các chức năng yêu cầu hiệu năng cao như bảng xếp hạng (Leaderboards), giảm số lượng truy vấn phức tạp (như `Sum`, `Count`) xuống cơ sở dữ liệu và thiết lập cơ chế giải phóng bộ đệm (Cache Invalidation) thông minh.
+
+#### 5. Triển khai Hệ thống và DevOps (Cloud Computing)
+* Cấu hình và làm việc trên môi trường Linux (Ubuntu Server).
+* Sử dụng AWS EC2 cho Web Server, AWS RDS (MySQL/PostgreSQL) cho Database và AWS S3 cho lưu trữ tệp tin tĩnh/đa phương tiện.
+* Quản lý tiến trình chạy ngầm bằng Supervisor và cấu hình Reverse Proxy bằng Nginx phối hợp cùng Gunicorn WSGI.
+
+---
+
+### Phần 2: Dự án Eco Tracker (Kiến trúc, Cơ sở dữ liệu và Chức năng)
+
+#### 1. Giới thiệu dự án Eco Tracker
+Eco Tracker là nền tảng mạng xã hội kết hợp trò chơi hóa (Gamification) và Trí tuệ nhân tạo (AI) nhằm khuyến khích người dùng xây dựng thói quen sống xanh một cách bền vũg. Ứng dụng biến mỗi hành động bảo vệ môi trường thực tế (như tái chế, trồng cây, tiết kiệm điện...) thành những thử thách có điểm thưởng, cấp độ, huy hiệu và bảng xếp hạng thi đua lành mạnh trong cộng đồng.
+
+#### 2. Kiến trúc hệ thống
+Eco Tracker được xây dựng theo mô hình kiến trúc MVC (Model-View-Controller) của Django kết hợp xử lý bất đồng bộ ngầm qua Celery và Redis.
 
 ```mermaid
-erDiagram
-    User ||--o| UserProfile : "có hồ sơ"
-    User ||--o{ EcoAction : "tải lên hành động"
-    User ||--o{ Friendship : "gửi/nhận kết bạn"
-    User ||--o{ GroupMember : "là thành viên nhóm"
-    User ||--o{ UserDailyMission : "nhận nhiệm vụ ngày"
-    User ||--o{ UserWeeklyMission : "nhận nhiệm vụ tuần"
-    User ||--o{ UserBadge : "đạt huy hiệu"
-    User ||--o{ EcoActionLike : "thích bài viết"
-    User ||--o{ UserAvatarFrame : "sở hữu khung avatar"
-    User ||--o{ UserTriviaSubmission : "làm trắc nghiệm"
-    User ||--o{ AICoachSuggestion : "nhận lời khuyên AI"
- 
-    EcoGroup ||--o{ GroupMember : "chứa"
-    EcoGroup ||--o| GroupWeeklyQuest : "có nhiệm vụ tuần nhóm"
-    EcoGroup ||--o{ GroupInvite : "gửi lời mời"
-    
-    EcoAction ||--o{ UserDailyMission : "hoàn thành nhiệm vụ"
-    EcoAction ||--o{ EcoActionLike : "có lượt thích"
- 
-    DailyMission ||--o{ UserDailyMission : "chỉ định"
-    WeeklyMission ||--o{ UserWeeklyMission : "chỉ định"
-    Badge ||--o{ UserBadge : "đại diện"
-    AvatarFrame ||--o{ UserAvatarFrame : "đại diện"
-    GroupWeeklyQuest ||--o{ UserGroupQuestReward : "chia thưởng co-op"
+graph TD
+    A[Giao diện Web - Người dùng] -->|1. Tải lên hoạt động xanh & Ảnh| B[Django Server]
+    B -->|2. Lưu bài viết trạng thái 'pending'| C[(Cơ sở dữ liệu)]
+    B -->|3. Đẩy tác vụ kiểm duyệt vào hàng đợi| D[Redis Broker]
+    D -->|4. Phân phối tác vụ| E[Celery Worker]
+    E -->|5. Gửi ảnh + Caption yêu cầu phân tích| F[Google Gemini 2.5 Flash API]
+    F -->|6. Trả kết quả JSON xác thực| E
+    E -->|7. Cập nhật trạng thái duyệt/cộng điểm| C
+    E -->|8. Xóa bộ đệm bảng xếp hạng| G[Redis Cache]
+    A -->|Xem Bảng xếp hạng| G
 ```
 
-###### 4. Cơ chế hoạt động của các tính năng chính
-1. **Đăng ký/Đăng nhập & Quản lý Hồ sơ:** Tích hợp Django Authentication để bảo mật thông tin tài khoản, cho phép đổi ảnh đại diện và cá nhân hóa cài đặt.
-2. **Eco Feed:** Bảng tin mạng xã hội hiển thị hình ảnh và mô tả hoạt động sống xanh. Người dùng tương tác thả tim bằng 4 trạng thái biểu cảm sống xanh (💚, ♻️, 🌳, ⚡) và gửi bình luận.
-3. **Kiểm duyệt ảnh tự động bằng AI (AI Image Verification):**
-   * Khi người dùng tải ảnh hoạt động lên kèm mô tả, hệ thống gửi dữ liệu đến mô hình **Google Gemini 2.5 Flash**.
-   * AI phân tích nội dung bức ảnh, kiểm tra xem bức ảnh có thực sự liên quan đến môi trường và khớp với mô tả hay không.
-   * Nếu hợp lệ, AI sẽ tự động phân loại hoạt động vào 1 trong 8 danh mục chính: *Tái chế, Trồng cây, Tiết kiệm điện, Tiết kiệm nước, Phương tiện công cộng, Dọn rác, Giảm nhựa, Khác*. Bài viết được hiển thị ngay lập tức và người dùng nhận được điểm thưởng.
-   * Nếu không hợp lệ (ảnh selfie, ảnh phong cảnh không liên quan...), hệ thống tự động từ chối bài đăng kèm lý do chi tiết từ AI.
-4. **Hệ thống Cấp độ sống xanh:** Người dùng tích lũy điểm XP để thăng cấp qua 10 bậc:
-   * *Level 1:* Tân Binh
-   * *Level 2:* Người Gieo Mầm
-   * *Level 3:* Người Bảo Vệ Rừng
-   * *Level 4:* Chiến Binh Xanh
-   * *Level 5:* Người Kiến Tạo
-   * *Level 6:* Đại Sứ Môi Trường
-   * *Level 7:* Người Canh Giữ Thiên Nhiên
-   * *Level 8:* Anh Hùng Sinh Thái
-   * *Level 9:* Huyền Thoại Xanh
-   * *Level 10:* Hộ Vệ Trái Đất
-5. **Nhiệm vụ hàng ngày/hàng tuần (Daily & Weekly Missions):** Các thử thách cụ thể được giao ngẫu nhiên để duy trì động lực, đi kèm cơ chế chống gian lận điểm số bằng giới hạn điểm nhận tối đa mỗi ngày (Daily Points Cap).
-6. **Cửa hàng Khung Avatar (Avatar Frame Shop):** Người dùng dùng điểm Eco Points kiếm được để mua các khung viền Avatar động hoặc phát sáng (Khung Đồng, Bạc, Vàng, Kim Cương, Neon, Galaxy, Huyền Thoại) làm tăng độ nhận diện thương hiệu cá nhân trên Eco Feed.
-7. **AI Eco Coach:** Trợ lý ảo phân tích hành vi của người dùng trong tuần và tự động tạo báo cáo cá nhân hóa. Ví dụ: *"Bạn đã tái chế rất tốt trong tuần này nhưng chưa có hoạt động tiết kiệm năng lượng. Hãy thử tắt các thiết bị điện không sử dụng để cân bằng lối sống xanh."*
+#### 3. Chi tiết Cơ sở dữ liệu (Database Schema)
+Hệ thống sử dụng cơ sở dữ liệu quan hệ gồm 21 bảng (Models) được tối ưu hóa chỉ mục (`db_index=True`) trên các trường tìm kiếm chính để đảm bảo hiệu năng tối ưu:
 
-###### 5. Tối ưu hóa hiệu năng ứng dụng
-Để đáp ứng lượng người dùng lớn, các giải pháp kỹ thuật sau đã được triển khai:
-* **Khắc phục lỗi N+1 Query trong ORM:** Sử dụng `.select_related()` và `.prefetch_related()` trên các View phức tạp (như Leaderboard và Feed) để gộp các truy vấn database, giúp giảm số lượng truy vấn và tăng tốc độ tải trang lên gấp nhiều lần.
-* **Xử lý bất đồng bộ bằng Celery + Redis:** Quá trình gọi API Gemini kiểm duyệt ảnh mất từ 2-5 giây được chuyển hoàn toàn vào hàng đợi chạy ngầm của Celery. Người dùng tải ảnh lên sẽ được điều hướng ngay về trang chủ với trạng thái bài đăng là `"⏱️ Đang phân tích..."`. Khi Celery hoàn thành tác vụ ngầm, trạng thái bài viết sẽ tự động cập nhật mà không làm treo hay gián đoạn trải nghiệm của người dùng.
-* **Redis Caching cho Bảng xếp hạng:** Cache kết quả xếp hạng trong 10 phút. Thiết lập cơ chế **Cache Invalidation** tự động xóa khóa cache bảng xếp hạng ngay khi có bất kỳ sự thay đổi điểm số nào từ phía người dùng (hoàn thành nhiệm vụ, đạt thành tích), giúp bảng xếp hạng luôn hiển thị chính xác theo thời gian thực mà không làm quá tải Database.
+| STT | Tên Model | Ý nghĩa & Mô tả chức năng |
+| :--- | :--- | :--- |
+| 1 | `User` | Bảng quản lý tài khoản người dùng mặc định của Django (username, email, password, etc.). |
+| 2 | `UserProfile` | Hồ sơ chi tiết liên kết 1-1 với `User`. Lưu trữ: ảnh đại diện (`avatar`), chuỗi ngày hoạt động (`streak_count`), ngày hoạt động cuối cùng (`last_action_date`), cấp độ cuối cùng (`last_level`), khung avatar đang hoạt động (`active_frame`). |
+| 3 | `EcoAction` | Lưu trữ hoạt động sống xanh tải lên của người dùng. Gồm ảnh hoạt động (`image`), mô tả (`caption`), phân loại (`category`), điểm số nhận được (`points`), trạng thái duyệt AI (`ai_status`), lý do AI phản hồi (`ai_reason`), thời gian tạo (`created_at`). |
+| 4 | `Friendship` | Quản lý mối quan hệ bạn bè giữa hai tài khoản (`sender` và `receiver`) với các trạng thái `pending` và `accepted`. |
+| 5 | `EcoGroup` | Quản lý các nhóm sống xanh do người dùng thành lập, gồm tên nhóm, chủ nhóm (`owner`) và danh sách các thành viên nhóm. |
+| 6 | `GroupMember` | Bảng trung gian liên kết nhiều - nhiều giữa `EcoGroup` và `User`, lưu trữ ngày tham gia nhóm (`joined_at`). |
+| 7 | `Badge` | Định nghĩa các huy hiệu danh giá, gồm mã huy hiệu (`code`), tên (`name`), mô tả (`description`), emoji biểu tượng (`icon`), danh mục yêu cầu (`requirement_category`), số lượng yêu cầu (`requirement_count`). |
+| 8 | `UserBadge` | Lưu trữ các huy hiệu mà từng người dùng đã tích lũy thành công. |
+| 9 | `EcoActionLike` | Lưu trữ các tương tác thích bài viết. Hỗ trợ 4 loại phản ứng sống xanh khác nhau: 💚, ♻️, 🌳, ⚡ (`reaction_type`). |
+| 10 | `GroupWeeklyQuest` | Nhiệm vụ tuần của nhóm, gồm danh mục hoạt động mục tiêu, số lượng mục tiêu (`target_count`), ngày bắt đầu và trạng thái hoàn thành (`is_completed`). |
+| 11 | `GroupInvite` | Lời mời tham gia nhóm sống xanh giữa người gửi (`sender`), người nhận (`receiver`) và nhóm (`group`). |
+| 12 | `DailyMission` | Định nghĩa các nhiệm vụ hàng ngày (ví dụ: "Sử dụng phương tiện công cộng", "Tái chế chai nhựa"). |
+| 13 | `UserDailyMission` | Theo dõi tiến trình nhiệm vụ ngày của từng người dùng cụ thể vào một ngày xác định. |
+| 14 | `WeeklyMission` | Định nghĩa các nhiệm vụ hàng tuần. |
+| 15 | `UserWeeklyMission` | Theo dõi tiến trình và số lượng hoạt động đạt được của người dùng đối với nhiệm vụ tuần. |
+| 16 | `AvatarFrame` | Định nghĩa các khung viền Avatar trong cửa hàng, gồm tên, giá điểm (`cost`), mã CSS tùy biến để tạo hiệu ứng phát sáng/động (`css_style`) và emoji xem trước (`preview_emoji`). |
+| 17 | `UserAvatarFrame` | Lưu trữ thông tin sở hữu khung avatar của người dùng sau khi mua thành công từ cửa hàng. |
+| 18 | `UserGroupQuestReward` | Ghi nhận phần thưởng điểm co-op cho từng thành viên khi nhóm của họ hoàn thành nhiệm vụ tuần của nhóm. |
+| 19 | `TriviaQuestion` | Lưu trữ ngân hàng câu hỏi trắc nghiệm kiến thức môi trường (Trivia Quiz) gồm câu hỏi, 4 đáp án A, B, C, D, đáp án đúng và phần giải thích chi tiết. |
+| 20 | `UserTriviaSubmission` | Ghi nhận lượt làm trắc nghiệm hàng ngày của người dùng, số câu trả lời đúng và điểm số đạt được. |
+| 21 | `AICoachSuggestion` | Lưu trữ các gợi ý sống xanh cá nhân hóa được tạo bởi AI Eco Coach cho người dùng dựa trên hành vi hoạt động của họ. |
+
+#### 4. Các tính năng chính và chi tiết kỹ thuật
+
+##### 4.1. Đăng ký & Đăng nhập (Authentication)
+Sử dụng hệ thống xác thực mặc định của Django, mở rộng thông qua signals để tự động tạo `UserProfile` tương ứng khi một người dùng mới đăng ký thành công.
+* Mật khẩu được mã hóa an toàn bằng thuật toán PBKDF2 mặc định của Django.
+* Giao diện cung cấp đầy đủ chức năng đăng nhập, đăng ký, chỉnh sửa hồ sơ cá nhân và thay đổi ảnh đại diện.
+
+##### 4.2. Eco Feed & Tương tác xã hội
+* **Đăng bài viết:** Người dùng tải lên các hoạt động sống xanh kèm hình ảnh thực tế và viết mô tả.
+* **Tương tác động:** Thay vì nút Thích (Like) thông thường, Eco Tracker thiết kế 4 loại phản ứng mang đậm tính chất môi trường:
+  * 💚: Trân trọng / Yêu thích hành động sống xanh.
+  * ♻️: Cổ vũ hoạt động tái chế.
+  * 🌳: Đồng lòng trồng cây, bảo vệ rừng.
+  * ⚡: Khuyến khích tiết kiệm năng lượng.
+* **Bình luận:** Cho phép thảo luận dưới mỗi bài đăng để tạo dựng cộng đồng sống xanh kết nối chặt chẽ.
+
+##### 4.3. Xác minh hình ảnh tự động bằng AI (AI Image Verification)
+Khi người dùng đăng tải một hoạt động mới kèm hình ảnh, hệ thống không duyệt trực tiếp mà chuyển sang trạng thái chờ kiểm duyệt (`ai_status="pending"`). Một tác vụ ngầm chạy bất đồng bộ được đẩy vào Celery Task Queue:
+1. `classify_eco_action_task(action_id)` được gọi.
+2. Hệ thống chuyển đổi hình ảnh thành mã Base64 và gửi yêu cầu đến **Google Gemini 2.5 Flash API** kèm theo nội dung mô tả của người dùng.
+3. AI tiến hành phân tích bức ảnh và kiểm chứng xem có đúng là hành động bảo vệ môi trường hay không, đồng thời phân loại vào 1 trong 6 danh mục xanh:
+   * `recycling` (tái chế rác thải nhựa, giấy, kim loại...).
+   * `tree_planting` (trồng cây, tưới cây, làm vườn...).
+   * `green_transport` (đi bộ, đi xe đạp, sử dụng xe buýt, tàu điện...).
+   * `clean_up` (thu gom rác thải, dọn dẹp không gian chung...).
+   * `saving_energy` (tắt bớt thiết bị điện, tiết kiệm nước...).
+   * `reusable_item` (sử dụng túi vải, bình nước cá nhân...).
+4. Trả về kết quả JSON dạng cấu trúc chuẩn:
+   ```json
+   {
+       "category": "recycling",
+       "confidence": 0.95,
+       "reason": "The image shows sorted plastic bottles in a recycling bin, aligning with the caption.",
+       "is_eco_action": true
+   }
+   ```
+5. Nếu AI xác nhận là hành động xanh hợp lệ (`is_eco_action: true`), bài viết sẽ được chuyển trạng thái sang `approved`, đồng thời kích hoạt các nghiệp vụ cộng điểm, tăng streak, và tính tiến trình nhiệm vụ.
+6. Nếu hình ảnh không hợp lệ (ví dụ: ảnh selfie, ảnh phong cảnh không liên quan, ảnh tải từ internet không đúng mô tả), AI sẽ đánh dấu `rejected` kèm lý do cụ thể hiển thị trực quan lên giao diện người dùng.
+7. **Cơ chế dự phòng (Fallback):** Trong trường hợp API Gemini gặp sự cố mạng hoặc quá tải, hệ thống tự động kích hoạt bộ lọc từ khóa thông minh (Smart Keyword Classifier) dựa trên phân tích chuỗi văn bản và tên tệp ảnh để phân loại, đảm bảo tính liên tục của hệ thống.
+
+##### 4.4. Hệ thống Trò chơi hóa (Gamification)
+Đây là hạt nhân cốt lõi nhằm tăng cường động lực sử dụng ứng dụng thường xuyên của người dùng:
+* **Hệ thống cấp độ:** Gồm 10 cấp độ sống xanh từ *Eco Novice (Tân Binh)* đến *Earth Guardian (Hộ vệ Trái đất)* dựa trên điểm tích lũy:
+
+| Cấp độ | Danh hiệu | Điểm tối thiểu | Điểm tối đa | Biểu tượng |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Eco Novice | 0 | 100 | 🌱 |
+| 2 | Green Starter | 100 | 250 | 🍃 |
+| 3 | Eco Activist | 250 | 500 | 🌿 |
+| 4 | Sustainability Seeker | 500 | 800 | 🍀 |
+| 5 | Waste Warrior | 800 | 1200 | 🧹 |
+| 6 | Planet Protector | 1200 | 1800 | 🌍 |
+| 7 | Forest Guardian | 1800 | 2500 | 🌳 |
+| 8 | Energy Innovator | 2500 | 3500 | ⚡ |
+| 9 | Climate Champion | 3500 | 5000 | 🏆 |
+| 10 | Earth Guardian | 5000 | Không giới hạn | 🛡️ |
+
+* **Hệ thống Streak và Hệ số Nhân điểm:**
+  * Để khuyến khích thói quen sống xanh hàng ngày, hệ thống ghi nhận tần suất đăng bài của người dùng.
+  * Nếu người dùng duy trì streak từ 3 - 6 ngày liên tục, họ sẽ nhận được hệ số nhân điểm **1.1x** cho các hoạt động tiếp theo.
+  * Nếu duy trì streak từ 7 ngày trở lên, hệ số nhân điểm sẽ tăng lên **1.3x**.
+* **Daily Points Cap (Giới hạn điểm ngày):** Nhằm ngăn chặn hành vi gian lận (spam đăng bài để lấy điểm ảo), hệ thống áp dụng giới hạn điểm nhận được tối đa mỗi ngày là **100 điểm** (cấu hình trong `settings.py`).
+* **Nhiệm vụ Ngày và Nhiệm vụ Tuần:**
+  * Mỗi ngày người dùng nhận các thử thách ngẫu nhiên từ hệ thống. Khi hoàn thành toàn bộ nhiệm vụ ngày sẽ nhận được điểm thưởng bổ sung ("Perfect Day").
+  * Nhiệm vụ tuần yêu cầu số lượng tích lũy lớn hơn (ví dụ: thực hiện 5 hoạt động tái chế trong tuần).
+* **Avatar Frame Shop (Cửa hàng khung viền):** Điểm số xanh (Eco Points) tích lũy được có thể dùng để mua các khung viền Avatar đặc biệt. Khung viền sau khi kích hoạt sẽ hiển thị bao quanh ảnh đại diện của người dùng trên Eco Feed và Bảng xếp hạng. Sử dụng CSS tùy biến cao cấp để tạo hiệu ứng phát sáng (glow), màu sắc chuyển động chuyển màu (gradient neon, galaxy).
+* **Trivia Quiz (Trắc nghiệm bảo vệ môi trường):** Mỗi ngày người dùng có thể tham gia trả lời nhanh 3 câu hỏi trắc nghiệm về kiến thức biến đổi khí hậu và bảo vệ môi trường để nhận thêm điểm thưởng.
+
+##### 4.5. Bảng xếp hạng (Leaderboard) & Tối ưu bộ đệm (Caching)
+Bảng xếp hạng hiển thị thứ tự thi đua của tất cả người dùng dựa trên tổng điểm số. Chức năng này thực hiện rất nhiều truy vấn tính toán nặng (`Sum`, `Count`) trên toàn bộ cơ sở dữ liệu.
+* **Giải pháp tối ưu:** Kết quả truy vấn bảng xếp hạng được lưu trữ vào bộ nhớ đệm Redis Cache (`leaderboard_data`) với thời gian hết hạn là 10 phút.
+* **Cơ chế Cache Invalidation:** Nhằm duy trì tính chính xác thời gian thực, bất cứ khi nào có thao tác thay đổi điểm số của bất kỳ người dùng nào (khi AI duyệt bài thành công, người dùng làm trắc nghiệm đúng, hoàn thành nhiệm vụ...), hệ thống sẽ chủ động xóa khóa cache `leaderboard_data` (`cache.delete("leaderboard_data")`). Lần tải trang tiếp theo sẽ lấy dữ liệu mới và ghi lại vào bộ đệm, giúp tăng tốc độ phản hồi trang web xuống còn $O(1)$.
+
+##### 4.6. Trợ lý ảo AI Eco Coach
+* Tích hợp AI đóng vai trò làm huấn luyện viên môi trường cho từng cá nhân.
+* AI sẽ quét và phân tích hành vi, thống kê các hoạt động sống xanh trong tuần của người dùng (Ví dụ: người dùng đăng nhiều hoạt động tái chế nhưng chưa có hoạt động tiết kiệm năng lượng).
+* Từ đó, AI Eco Coach đưa ra những lời khuyên sâu sắc, đề xuất các thử thách tuần mới nhằm cân bằng lối sống thân thiện với môi trường một cách cá nhân hóa.
 
 ---
 
-#### Phần 3: AWS (Triển khai hệ thống trên Amazon Web Services)
+### Phần 3: Triển khai ứng dụng trên hạ tầng điện toán đám mây AWS
 
-Nhằm mục đích đưa ứng dụng **Eco Tracker** lên môi trường sản xuất thực tế phục vụ người dùng, em đã được hướng dẫn tìm hiểu và trực tiếp tham gia cấu hình hạ tầng mạng và lưu trữ trên nền tảng điện toán đám mây **Amazon Web Services (AWS)**.
+Để chuyển đổi ứng dụng từ môi trường phát triển cục bộ (Local Development) lên môi trường sản xuất chạy thực tế ổn định, hệ thống đã được triển khai lên nền tảng điện toán đám mây **Amazon Web Services (AWS)** với mô hình kiến trúc phân lớp bảo mật như sau:
 
-Quy trình triển khai hệ thống trên AWS bao gồm các thành phần dịch vụ chính sau:
+#### 1. Sơ đồ kiến trúc triển khai trên AWS
 
-##### 1. Cơ sở dữ liệu AWS RDS (Relational Database Service) - PostgreSQL
-* **Lý do sử dụng:** SQLite mặc định chỉ phù hợp cho môi trường phát triển cục bộ vì khả năng ghi đồng thời kém. Trên AWS, hệ thống chuyển sang sử dụng hệ quản trị cơ sở dữ liệu **PostgreSQL** được lưu trữ trên dịch vụ quản lý cơ sở dữ liệu đám mây **AWS RDS**. RDS cung cấp khả năng tự động sao lưu dự phòng (Backup), khả năng bảo mật cao trong phân vùng VPC, và có thể mở rộng tài nguyên dễ dàng khi lưu lượng truy cập tăng.
-* **Cấu hình Django:** Cài đặt thư viện kết nối cơ sở dữ liệu `psycopg2-binary` và cập nhật thông số kết nối Endpoint của AWS RDS trong file [config/settings.py](file:///Users/minhhuy/Downloads/EcoTracker-main%203/eco_tracker/config/settings.py):
+```mermaid
+graph LR
+    User[Người dùng Internet] -->|HTTP/HTTPS| Nginx[Nginx Reverse Proxy]
+    Nginx -->|WSGI Protocol| Gunicorn[Gunicorn Web Server]
+    Gunicorn --> Django[Django Application on EC2]
+    Django -->|Đọc/Ghi dữ liệu| RDS[(AWS RDS MySQL/MariaDB)]
+    Django -->|Tải lên/Phân phối file tĩnh| S3[AWS S3 Bucket]
+    Django -->|Đẩy hàng đợi & Caching| ElastiCache[AWS ElastiCache Redis]
+    Celery[Celery Workers on EC2] -->|Xử lý tác vụ AI ngầm| Gemini[Google Gemini API]
+    Celery -->|Đọc/Ghi dữ liệu| RDS
+    Celery -->|Truy xuất ảnh| S3
+```
+
+#### 2. Thiết lập cơ sở dữ liệu trên AWS RDS MySQL
+Thay vì chạy cơ sở dữ liệu SQLite cục bộ không đảm bảo an toàn dữ liệu, hệ thống sử dụng dịch vụ cơ sở dữ liệu đám mây **AWS RDS** chạy MySQL/MariaDB để đảm bảo hiệu năng và sao lưu tự động.
+* Cài đặt thư viện kết nối cơ sở dữ liệu trong môi trường ảo:
+  ```bash
+  pip install pymysql
+  ```
+* Khởi tạo kết nối trong tệp tin `eco_tracker/config/settings.py` bằng cách cấu hình biến `DATABASES` kết nối trực tiếp đến RDS Endpoint:
   ```python
   DATABASES = {
-      'default': {
-          'ENGINE': 'django.db.backends.postgresql',
-          'NAME': 'ecotracker_db',
-          'USER': 'postgres_admin',
-          'PASSWORD': 'secure_rds_password',
-          'HOST': 'ecotracker-rds.xxxxx.ap-southeast-1.rds.amazonaws.com',
-          'PORT': '5432',
+      "default": {
+          "ENGINE": "django.db.backends.mysql",
+          "NAME": "ecotracker",
+          "USER": "admin",
+          "PASSWORD": "isb-mysql-db-password",
+          "HOST": "isb-mysql-db.cfmqo2ccy3py.ap-southeast-1.rds.amazonaws.com",
+          "PORT": "3306",
       }
   }
   ```
 
-##### 2. Lưu trữ tệp tĩnh và phương tiện bằng AWS S3 (Simple Storage Service)
-* **Lý do sử dụng:** Khi triển khai trên máy chủ đám mây, các tệp tĩnh (CSS, JS) và tệp phương tiện (ảnh do người dùng tải lên để AI duyệt) cần được lưu trữ ở một nơi tập trung tách biệt hoàn toàn với mã nguồn. Việc này giúp máy chủ web chạy mượt mà, bảo vệ dữ liệu không bị mất khi khởi động lại máy chủ ảo và tạo tiền đề để chạy cơ chế tự động cân bằng tải (Auto Scaling). Dịch vụ **AWS S3** với độ tin cậy và tốc độ cao đã được lựa chọn.
-* **Cấu hình Django:** Tích hợp thư viện `django-storages` và bộ SDK `boto3`. Cấu hình trong file [settings.py](file:///Users/minhhuy/Downloads/EcoTracker-main%203/eco_tracker/config/settings.py) để tự động đẩy mọi tệp tin tĩnh và tệp phương tiện lên Bucket S3:
-  ```python
-  INSTALLED_APPS += ['storages']
-
-  AWS_ACCESS_KEY_ID = 'YOUR_AWS_ACCESS_KEY'
-  AWS_SECRET_ACCESS_KEY = 'YOUR_AWS_SECRET_ACCESS_KEY'
-  AWS_STORAGE_BUCKET_NAME = 'ecotracker-media1'  # Bucket AWS S3 của dự án
-  AWS_S3_REGION_NAME = 'ap-southeast-1'
-
-  # Cấu hình lưu trữ
-  DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
-  STATICFILES_STORAGE = 'storages.backends.s3boto3.S3ManifestStaticStorage'
-
-  # URL truy cập tài nguyên tĩnh và media qua CDN AWS S3
-  AWS_S3_CUSTOM_DOMAIN = f"{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com"
-  MEDIA_URL = f"https://{AWS_S3_CUSTOM_DOMAIN}/media/"
+#### 3. Lưu trữ tệp tin tĩnh và tệp phương tiện tải lên qua AWS S3
+Để giảm tải cho máy chủ EC2 và đảm bảo dữ liệu hình ảnh của người dùng không bị mất khi máy chủ EC2 khởi động lại, toàn bộ tệp tĩnh (CSS, JS) và tệp tin đa phương tiện (Ảnh avatar, ảnh hoạt động xanh) được lưu trữ tập trung trên dịch vụ lưu trữ đám mây **AWS S3**.
+* Cài đặt thư viện hỗ trợ lưu trữ đám mây:
+  ```bash
+  pip install django-storages boto3
   ```
-  Nhờ đó, mọi hình ảnh hoạt động sống xanh tải lên đều được lưu trữ trực tiếp trên AWS S3 và phân phối tới trình duyệt người dùng thông qua liên kết bảo mật có dạng: `https://ecotracker-media1.s3.amazonaws.com/media/eco_actions/images.jpeg`.
+* Cấu hình liên kết S3 trong tệp tin `settings.py`:
+  ```python
+  USE_S3 = os.environ.get("USE_S3", "True") == "True"
 
-##### 3. Máy chủ Web EC2, Gunicorn và Nginx reverse proxy
-* **AWS EC2 (Elastic Compute Cloud):** Sử dụng một máy chủ ảo chạy hệ điều hành Ubuntu Server 22.04 LTS làm nơi lưu trữ và chạy mã nguồn chính của ứng dụng Django.
-* **Gunicorn (WSGI Server):** Làm nhiệm vụ cầu nối giữa máy chủ web và mã nguồn Django Python, chạy dịch vụ ở cổng nội bộ (ví dụ: `127.0.0.1:8000`).
-* **Nginx:** Đóng vai trò là Reverse Proxy tiếp nhận các truy cập của khách hàng ở cổng `80` (HTTP) hoặc `443` (HTTPS) từ ngoài Internet, sau đó chuyển tiếp yêu cầu đến Gunicorn xử lý. Nginx giúp tăng cường bảo mật, xử lý SSL/TLS và hỗ trợ phân phối nhanh các yêu cầu.
-* **Quản lý tiến trình ngầm bằng Supervisor:** Do Celery Worker và Gunicorn là các tiến trình chạy ngầm, trên môi trường Ubuntu của EC2, em đã cấu hình công cụ **Supervisor** để giám sát các tiến trình này. Nếu tiến trình bị tắt do thiếu RAM hoặc lỗi ứng dụng, Supervisor sẽ tự động khởi chạy lại ngay lập tức:
+  if USE_S3:
+      AWS_ACCESS_KEY_ID = os.environ.get("AWS_ACCESS_KEY_ID")
+      AWS_SECRET_ACCESS_KEY = os.environ.get("AWS_SECRET_ACCESS_KEY")
+      AWS_STORAGE_BUCKET_NAME = os.environ.get("AWS_STORAGE_BUCKET_NAME", "ecotracker-media1")
+      AWS_S3_REGION_NAME = os.environ.get("AWS_S3_REGION_NAME", "us-east-1")
+      
+      AWS_S3_CUSTOM_DOMAIN = f"{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com"
+      AWS_S3_FILE_OVERWRITE = False
+      AWS_DEFAULT_ACL = None
+      AWS_QUERYSTRING_AUTH = False
+
+      STORAGES = {
+          "default": {
+              "BACKEND": "tracker.storage_backends.MediaStorage",
+          },
+          "staticfiles": {
+              "BACKEND": "django.contrib.staticfiles.storage.StaticFilesStorage",
+          },
+      }
+      MEDIA_URL = f"https://{AWS_S3_CUSTOM_DOMAIN}/media/"
+  ```
+
+#### 4. Quản lý tiến trình Celery Worker bằng Supervisor trên EC2
+Để đảm bảo hàng đợi xử lý ảnh AI chạy ổn định liên tục 24/7 và tự động khởi động lại nếu tiến trình gặp lỗi hoặc bộ nhớ bị tràn, chương trình **Supervisor** được cài đặt trên Ubuntu Server để giám sát tiến trình Celery.
+* Cấu hình tệp tin quản lý tiến trình Celery `/etc/supervisor/conf.d/ecotracker-celery.conf`:
   ```ini
   [program:ecotracker-celery]
-  command=/home/ubuntu/EcoTracker/.venv/bin/celery -A config worker -l info
-  directory=/home/ubuntu/EcoTracker/eco_tracker
+  command=/home/ubuntu/ECOTRACKER-main/.venv/bin/celery -A config worker --loglevel=info
+  directory=/home/ubuntu/ECOTRACKER-main/eco_tracker
   user=ubuntu
+  numprocs=1
+  stdout_logfile=/home/ubuntu/ECOTRACKER-main/logs/celery.log
+  stderr_logfile=/home/ubuntu/ECOTRACKER-main/logs/celery_err.log
   autostart=true
   autorestart=true
-  stdout_logfile=/home/ubuntu/EcoTracker/logs/celery.log
-  stderr_logfile=/home/ubuntu/EcoTracker/logs/celery_err.log
+  startsecs=10
+  ```
+* Lệnh quản lý Supervisor:
+  ```bash
+  sudo supervisorctl reread
+  sudo supervisorctl update
+  sudo supervisorctl start ecotracker-celery
   ```
 
----
-
-#### Tổng kết Chương 2
-
-Kỳ thực tập 2 tuần tại Học viện Teky ở vị trí Dev/Web đã mang lại cho em những trải nghiệm thực tế vô cùng giá trị. Thông qua việc trực tiếp tham gia xây dựng và triển khai dự án **Eco Tracker**, em không chỉ củng cố được các kiến thức lý thuyết đã học về thiết kế UI/UX (Figma), lập trình Front-end (HTML/CSS/JS) và lập trình Back-end (Django MVT) mà còn tiếp cận được với các công nghệ nâng cao như xử lý tác vụ ngầm bất đồng bộ (Celery + Redis), tích hợp trí tuệ nhân tạo (Google Gemini API) và triển khai ứng dụng trên dịch vụ điện toán đám mây chuyên nghiệp **AWS (EC2, S3, RDS)**. 
-
-Bên cạnh đó, việc thực hành làm việc nhóm và quản lý phiên bản phần mềm thông qua Git/GitHub đã rèn luyện cho em tư duy thiết kế hệ thống, khả năng tự học hỏi giải quyết vấn đề và phong cách làm việc trách nhiệm trong một dự án phần mềm thực tế.
+#### 5. Thiết lập Nginx và Gunicorn trên EC2
+* **Gunicorn (Green Unicorn):** Đóng vai trò là WSGI HTTP Server để thực thi mã nguồn Python/Django.
+  Cấu hình Supervisor giám sát Gunicorn (`/etc/supervisor/conf.d/ecotracker-gunicorn.conf`) chạy trên cổng nội bộ `8000`.
+* **Nginx:** Đóng vai trò là Reverse Proxy nằm ở lớp ngoài cùng tiếp nhận các yêu cầu HTTP/HTTPS của người dùng từ internet (cổng 80/443), sau đó chuyển tiếp yêu cầu đến Gunicorn thông qua địa chỉ `http://127.0.0.1:8000/`. Nginx giúp tăng tốc độ tải trang nhờ cơ chế nén dữ liệu và nâng cao bảo mật hệ thống.
 
 ---
-pagebreak
----
 
-### KẾT LUẬN
-
-Báo cáo thực tập với đề tài **“Hành trình làm thực tập sinh DEV/WEB”** đã ghi lại một cách chi tiết quá trình em tìm hiểu môi trường làm việc thực tế và tham gia các nhiệm vụ phát triển web tại Học viện Sáng tạo Công nghệ Teky.
-
-Thông qua quá trình thực tập, em đã có cơ hội quý báu để vận dụng những kiến thức đã học vào thực tế, đồng thời nâng cao đáng kể kỹ năng giải quyết vấn đề và khả năng thích nghi với môi trường làm việc chuyên nghiệp của doanh nghiệp. Em đã hiểu rõ hơn về quy trình phát triển sản phẩm phần mềm hoàn chỉnh, tác phong làm việc của lập trình viên và các tiêu chuẩn bảo mật, tối ưu hóa mã nguồn trong thực tế.
-
-Bên cạnh những kiến thức và kinh nghiệm đã tích lũy được, em tự nhận thấy bản thân vẫn cần tiếp tục nỗ lực học hỏi để hoàn thiện nhiều kỹ năng chuyên môn khác như phát triển backend nâng cao, thiết kế tối ưu hóa cơ sở dữ liệu lớn, quản trị hệ thống Cloud tự động hóa và nâng cao khả năng làm việc với các công cụ CI/CD. Trong các kỳ học tiếp theo, em mong muốn tiếp tục được thử sức với các bài toán thực tế phức tạp hơn để nâng cao năng lực chuyên môn, đáp ứng tốt các yêu cầu tuyển dụng của thị trường công nghệ trong tương lai.
-
-Đợt thực tập tại Teky thực sự là một cột mốc quan trọng, là nền tảng vững chắc để em tự tin tiếp tục theo đuổi đam mê và phát triển nghề nghiệp trong lĩnh vực phát triển phần mềm.
+### Tổng Kết Chương 2
+Qua quá trình học tập và trực tiếp phát triển ứng dụng Eco Tracker, em đã nắm vững quy trình phát triển sản phẩm phần mềm hoàn chỉnh theo mô hình Django hiện đại. Em đã áp dụng thành công các kiến thức đã học vào dự án thực tế bao gồm thiết kế cơ sở dữ liệu quan hệ chặt chẽ với hơn 20 bảng, tối ưu hóa hiệu năng bằng các kỹ thuật Caching Redis và loại bỏ N+1 Queries, tích hợp API Google Gemini 2.5 Flash để tự động kiểm duyệt hình ảnh và xử lý bất đồng bộ qua hệ thống hàng đợi Celery + Redis. Cuối cùng, việc triển khai thành công ứng dụng lên hạ tầng AWS (EC2, S3, RDS) giúp em hiểu rõ hơn vai trò của một lập trình viên Dev/Web trong môi trường doanh nghiệp thực tế.
 
 ---
-pagebreak
+
+## KẾT LUẬN
+
+Báo cáo thực tập với đề tài “Hành trình làm thực tập sinh Dev/Web – Phát triển và Triển khai Nền tảng Mạng xã hội Sống xanh Eco Tracker” đã ghi lại chi tiết quá trình em học tập công nghệ, nghiên cứu kiến trúc hệ thống và trực tiếp phát triển, triển khai sản phẩm thực tế trong thời gian thực tập.
+
+Thông qua quá trình thực tập, em đã có cơ hội vận dụng những kiến thức đã học vào thực tế, đồng thời nâng cao kỹ năng giải quyết vấn đề và khả năng thích nghi với môi trường làm việc chuyên nghiệp. Bên cạnh đó, em cũng hiểu rõ hơn về quy trình phát triển sản phẩm phần mềm, tác phong làm việc trong doanh nghiệp và trách nhiệm của một lập trình viên trong quá trình xây dựng và phát triển sản phẩm.
+
+Bên cạnh những kiến thức và kinh nghiệm đã tích lũy được, em nhận thấy bản thân vẫn cần tiếp tục học hỏi và hoàn thiện nhiều kỹ năng chuyên môn như phát triển nâng cao các APIs bảo mật, thiết kế và quản lý cơ sở dữ liệu lớn, tối ưu hiệu năng sâu hơn cho các tác vụ Celery phức tạp cũng như nâng cao khả năng làm việc với các công cụ CI/CD để tự động hóa quy trình triển khai phần mềm. Trong các kỳ học tiếp theo, em mong muốn được tiếp cận nhiều hơn với các dự án thực tế quy mô lớn, tìm hiểu sâu hơn về quy trình kiểm thử hệ thống và các công nghệ điện toán đám mây tiên tiến.
+
+Đợt thực tập tại Học viện Sáng tạo Công nghệ TEKY là một trải nghiệm quý báu, giúp em tích lũy thêm kiến thức chuyên môn, kinh nghiệm thực tế và định hướng rõ ràng hơn cho con đường nghề nghiệp trong lĩnh vực phát triển phần mềm trong tương lai.
+
 ---
 
-### TÀI LIỆU THAM KHẢO
+## TÀI LIỆU THAM KHẢO
 
-1. **Trang web Học viện Công nghệ Sáng tạo TEKY:**  
-   [https://teky.edu.vn](https://teky.edu.vn) (Truy cập tháng 6 năm 2026)
-2. **Tài liệu hướng dẫn lập trình Django Framework:**  
-   [https://docs.djangoproject.com](https://docs.djangoproject.com)
-3. **Tài liệu cấu hình lưu trữ đám mây AWS S3 với Django (django-storages):**  
-   [https://django-storages.readthedocs.io](https://django-storages.readthedocs.io)
-4. **Tài liệu hướng dẫn tích hợp Google Gemini API:**  
-   [https://ai.google.dev](https://ai.google.dev)
-5. **Mã nguồn dự án Eco Tracker tại local:**  
-   [Thư mục dự án local](file:///Users/minhhuy/Downloads/ECOTRACKER-main%205)
+1. **Trang web học viện công nghệ sáng tạo TEKY:**
+   * Truy cập Trang chủ: [https://teky.edu.vn](https://teky.edu.vn)
+2. **Tài liệu hướng dẫn phát triển Django Framework:**
+   * Hướng dẫn chính thức (Official Django Documentation): [https://docs.djangoproject.com/en/5.0/](https://docs.djangoproject.com/en/5.0/)
+3. **Tài liệu tích hợp Celery và Redis trong ứng dụng Django:**
+   * Hướng dẫn cấu hình Celery (Celery Official Documentation): [https://docs.celeryq.dev/en/stable/](https://docs.celeryq.dev/en/stable/)
+4. **Tài liệu hướng dẫn sử dụng Google Gemini API:**
+   * Google AI Studio Developers Documentation: [https://ai.google.dev/gemini-api/docs](https://ai.google.dev/gemini-api/docs)
+5. **Tài liệu hướng dẫn triển khai trên hạ tầng đám mây AWS:**
+   * AWS Developer Guide & Documentation (EC2, S3, RDS): [https://docs.aws.amazon.com/](https://docs.aws.amazon.com/)
+6. **Mã nguồn dự án Eco Tracker:**
+   * Kho lưu trữ mã nguồn và triển khai cục bộ dự án Eco Tracker.
